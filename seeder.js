@@ -42,7 +42,7 @@ async function runSeeder(){
     }
 
     const startTime = Date.now();
-    const dirPath = path.join(__dirname,  'seeddata');
+    const dirPath = path.join(__dirname,  'seedData');
 
     
     console.log("Seeding Breeds")
